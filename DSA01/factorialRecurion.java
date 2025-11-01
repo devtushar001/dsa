@@ -23,3 +23,5 @@ public class factorialRecurion {
 // = 5 * 4 * 3 * 2 * 1
 // = 120
 
+
+//Each factorial(n) call is pushed to the call stack until the base case, then results are returned upward.
